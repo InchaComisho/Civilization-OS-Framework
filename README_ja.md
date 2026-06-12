@@ -236,77 +236,91 @@ AIは、接続されるOSによって役割が変わります。
 
 ---
 
-## 関連リンク
+## 関連NOTE記事 / Related NOTE Articles
 
-文明OS  
-https://note.com/inchacomusho/n/nc10fa0264dae
+### 文明OS・黎明文明OS
 
-文明OS / Civilization OS  
-https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md
+- [文明OS](https://note.com/inchacomusho/n/nc10fa0264dae)
+- [次世代文明OS／黎明文明OS](https://note.com/inchacomusho/n/n09d9ae9127ac)
 
-Civilization OS  
-https://github.com/InchaComisho/Civilization-OS/blob/main/README.md
+### 持続的未来文明・新文明創成計画
 
-次世代文明OS／黎明文明OS  
-https://note.com/inchacomusho/n/n09d9ae9127ac
+- [持続的未来文明マスタープラン・技術実装編](https://note.com/inchacomusho/n/nb470961ed809)
+- [自然法則に基づく持続的未来文明マスタープラン](https://note.com/inchacomusho/n/n24cdb7a6774c)
+- [新文明創成計画―地球を再生する完全循環モデル](https://note.com/inchacomusho/n/ne4d28b3a86c2)
+- [新文明創成計画](https://note.com/inchacomusho/n/n26ce8a1f7632)
+- [新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）](https://note.com/inchacomusho/n/n499530f6a055)
 
-次世代文明OS／黎明文明OS  
-https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md
+### 関連OS記事
 
-REIMEI Civilization OS / Next Civilization OS  
-https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md
+- [都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
+- [自然・微生物OSとは何か](https://note.com/inchacomusho/n/n0f08276bd638)
+- [惑星熱・循環OS](https://note.com/inchacomusho/n/n9992ff391394)
 
-黎明文明：惑星循環文明への移行  
-https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md
+---
 
-REIMEI Civilization: Planetary Circulation Transition
-https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md
+## 関連GitHub文書 / Related GitHub Documents
 
-持続的未来文明マスタープラン・技術実装編  
-https://note.com/inchacomusho/n/nb470961ed809
+### 文明OS・黎明文明OS
 
-Sustainable Future Civilization Master Plan  
-https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan
+- [文明OS / Civilization OS（日本語）](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [Civilization OS（English）](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
 
-自然法則に基づく持続的未来文明マスタープラン  
-https://note.com/inchacomusho/n/n24cdb7a6774c
+### 黎明文明・惑星循環
 
-Natural-Law-Based Sustainable Future Civilization Master Plan  
-https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
+- [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+- [REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
 
-新文明創成計画―地球を再生する完全循環モデル  
-https://note.com/inchacomusho/n/ne4d28b3a86c2
+### 関連OSモデル
 
-新文明創成計画  
-https://note.com/inchacomusho/n/n26ce8a1f7632
+- [都市・文明OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
+- [Urban–Civilization OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [自然・微生物OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
+- [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
+- [惑星熱・循環OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
+- [Planetary Heat & Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
-新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-https://note.com/inchacomusho/n/n499530f6a055
+---
 
-都市・文明OSとは何か  
-https://note.com/inchacomusho/n/ne7ebce3dcf78
+## ポータル・総合計画リポジトリ
 
-都市・文明OS  
-https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md
+本リポジトリは、文明OS体系全体への入口となる統合ポータルです。
 
-Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated  
-https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md
+関連する総合計画リポジトリは以下です。
 
-自然・微生物OSとは何か  
-https://note.com/inchacomusho/n/n0f08276bd638
+- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
 
-自然・微生物OS  
-https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md
+---
 
-Natural–Microbial OS  
-https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md
+## 著者
 
-惑星熱・循環OS  
-https://note.com/inchacomusho/n/n9992ff391394
+**マスター（inchacomusho / InchaComisho）**
 
-惑星熱・循環OS  
-https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md
+---
 
-Planetary-Heat-Circulation-OS    
-https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md
+## 協力AI
+
+- G（ChatGPT）
+- ミニ（Gemini）
+- クルス（Claude）
+- リアル（Perplexity）
+- ローラ（Dola）
+- マナ（Manus）
+
+---
+
+## 公開日
+
+2026年6月
+
+---
+
+## ライセンス
+
+本ドキュメントは **CC BY 4.0（表示）** ライセンスのもとで公開されます。
+
+出典を明記することで、共有・翻案・再利用が可能です。
 

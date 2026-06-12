@@ -538,6 +538,29 @@ It is a survival strategy for human civilization in the age of AI.
 
 ---
 
+## Related NOTE Articles
+
+### Civilization OS and REIMEI Civilization OS
+
+- [Civilization OS](https://note.com/inchacomusho/n/nc10fa0264dae)
+- [Next Civilization OS / REIMEI Civilization OS](https://note.com/inchacomusho/n/n09d9ae9127ac)
+
+### Sustainable Future Civilization and New Civilization Plans
+
+- [Sustainable Future Civilization Master Plan: Technical Implementation](https://note.com/inchacomusho/n/nb470961ed809)
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://note.com/inchacomusho/n/n24cdb7a6774c)
+- [New Civilization Creation Plan: Complete Circulation Model for Earth Regeneration](https://note.com/inchacomusho/n/ne4d28b3a86c2)
+- [New Civilization Creation Plan](https://note.com/inchacomusho/n/n26ce8a1f7632)
+- [New Civilization Creation Plan: Comprehensive Circular Infrastructure System for Earth Recovery](https://note.com/inchacomusho/n/n499530f6a055)
+
+### Related OS Articles
+
+- [Urban–Civilization OS](https://note.com/inchacomusho/n/ne7ebce3dcf78)
+- [Natural–Microbial OS](https://note.com/inchacomusho/n/n0f08276bd638)
+- [Planetary Heat & Circulation OS](https://note.com/inchacomusho/n/n9992ff391394)
+
+---
+
 ## Related GitHub Documents
 
 ### Civilization OS and REIMEI Civilization OS
@@ -568,9 +591,35 @@ It is a survival strategy for human civilization in the age of AI.
 
 ---
 
+## Portal and Master Plan Repositories
+
+This repository serves as the integrated portal for the Civilization OS Framework.
+
+- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+
+---
+
 ## Author
 
 **Master / マスター（inchacomusho / InchaComisho）**
+
+---
+
+## Collaborating AI
+
+- G（ChatGPT）
+- Mini（Gemini）
+- Cruz（Claude）
+- Real（Perplexity）
+- Lola (Dola)
+- Mana（Manus）
+
+---
+
+## Publication Date
+
+June 2026
 
 ---
 
