@@ -589,6 +589,9 @@ It is a survival strategy for human civilization in the age of AI.
 * [Natural–Microbial OS / English](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
 * [Planetary Heat & Circulation OS / Japanese](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 * [Planetary Heat & Circulation OS / English](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
+- [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [Japanese README: 循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [Original NOTE article: 循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 ---
 
