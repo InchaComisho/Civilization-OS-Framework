@@ -595,6 +595,11 @@ It is a survival strategy for human civilization in the age of AI.
 
 ---
 
+## Related Computing Architecture
+
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+  A five-bit abacus-based decimal computing paradigm designed to connect electronic computers, optical computing, and quantum-compatible photonic architectures.
+
 ## Portal and Master Plan Repositories
 
 This repository serves as the integrated portal for the Civilization OS Framework.
