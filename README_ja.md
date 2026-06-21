@@ -282,6 +282,8 @@ AIは、接続されるOSによって役割が変わります。
 - [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
 - [惑星熱・循環OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat & Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
+- [Ocean Tuning Units（OTU）— 直接的惑星冷却構想](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
+  海洋循環と海面・表層冷却を扱う概念サブシステム。文明OS体系における、惑星熱循環・水循環安定化モジュールとして接続できる。
 - [循環都市構想（日本語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
 - [Circular City Concept（英語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
 - [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
