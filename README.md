@@ -623,6 +623,9 @@ It is a survival strategy for human civilization in the age of AI.
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
 ## Related Computing Architecture
 
 - [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
