@@ -623,6 +623,12 @@ It is a survival strategy for human civilization in the age of AI.
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
+- [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
+  Explains why El Niño in the age of global warming should be understood as a warning signal from an already heat-loaded ocean, and connects that warning to Cooling Credits and thermal accounting.
+
 ## Related Computing Architecture
 
 - [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
@@ -722,5 +728,10 @@ Civilization OS, Civilization OS Framework, REIMEI Civilization OS, Next Civiliz
 
 ## Related Institutional Proposal: Carbon Credit to Cooling Credit
 
-- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)
   A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
+
+## Related Links
+
+- [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
+  Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.

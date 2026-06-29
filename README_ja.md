@@ -316,6 +316,12 @@ AIは、接続されるOSによって役割が変わります。
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
+
+- [温暖化時代のエルニーニョとクーリングクレジット](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ja.md)
+  すでに熱を抱えた海にエルニーニョが重なる危険性を整理し、その警告をクーリングクレジットと熱会計へ接続する文書。
+
 ## 関連コンピューティング構想
 
 - [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
@@ -377,5 +383,10 @@ AIは、接続されるOSによって役割が変わります。
 
 ## 関連制度提案：カーボンクレジットからクーリングクレジットへ
 
-- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
+
+## 関連リンク
+
+- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
+  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
