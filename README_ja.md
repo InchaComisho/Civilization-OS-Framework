@@ -2,6 +2,35 @@
 
 ## 自然法則・惑星循環・AI時代に対応する文明再設計フレームワーク
 
+[English](README.md)
+
+---
+
+## 重要リンク：文明OSカーネルと現文明診断
+
+文明OS体系の中核は、単なる制度や技術ではなく、**六つの理** を思想カーネルとして組み込むことである。
+
+- [六つの理を文明OSカーネルとして組み込む](SIX_PRINCIPLES_AS_CIVILIZATION_OS_KERNEL_ja.md)
+- [現文明が失敗した理由──六つの理による文明OS診断](WHY_CURRENT_CIVILIZATION_FAILED_BY_SIX_PRINCIPLES_ja.md)
+- [思想が文明と科学技術の使い方を決める](CIVILIZATION_PHILOSOPHY_DETERMINES_TECHNOLOGY_ja.md)
+- [自然法則の六原理](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law/blob/main/README_ja.md)
+- [六つの理・文明失敗シミュレーション Python](simulations/six_principles_civilization_failure_simulation.py)
+- [六つの理・文明失敗シミュレーション CSV](simulations/six_principles_civilization_failure_results.csv)
+
+---
+
+## 文明系リポジトリ相互リンク
+
+- [Civilization-OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [Civilization-OS-Framework](README_ja.md)
+- [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+- [REIMEI-Planetary-Circulation](https://github.com/InchaComisho/REIMEI-Planetary-Circulation/blob/main/README_ja.md)
+- [Urban-Civilization-OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal/blob/main/README_ja.md)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/README_ja.md)
+- [Master Definition of Global Warming Causality and Complete Solution](https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/README_ja.md)
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ja.md)
+
 ---
 
 ## 概要
@@ -119,274 +148,27 @@
 
 ---
 
-## 各文書の位置づけ
-
-### 1. 文明OS
-
-文明OSは、本体系の基礎概念です。
-
-現代文明の危機を、単なる環境問題や技術問題ではなく、文明全体を動かす深層OSの設計不良として捉えます。
-
-ここでは、線形思考、消費型文明、二元論、人間至上主義、成長至上主義といった現文明OSの限界を整理します。
-
----
-
-### 2. 次世代文明OS／黎明文明OS
-
-黎明文明OSは、文明OSを次の段階へ発展させる中核文書です。
-
-現文明OSの診断を前提に、自然法則、惑星循環、AI時代に適合する次世代文明OSの原理、階層構造、文明カーネル、文明プロトコルを提示します。
-
----
-
-### 3. 黎明文明：惑星循環文明への移行
-
-この文書は、黎明文明OSを惑星スケールの文明移行モデルとして展開するものです。
-
-水循環、土壌、森林、海洋、エネルギー、都市、AIを、惑星循環の中でどのように再接続するかを扱います。
-
----
-
-### 4. 持続的未来文明マスタープラン
-
-持続的未来文明マスタープランは、文明OSおよび黎明文明OSの考え方を、実際の技術体系・都市設計・インフラ構造へ落とし込むための総合計画です。
-
-自然法則に基づく文明設計を、具体的な実装モデルへ接続します。
-
----
-
-### 5. 都市・文明OS
-
-都市・文明OSは、都市を自然から切り離された消費装置ではなく、自然循環を補完する人工生態系として再設計するための文書です。
-
-都市水路、屋内農業、分散型エネルギー、排熱利用、地下物流、建築一体型農業などを扱います。
-
----
-
-### 6. 自然・微生物OS
-
-自然・微生物OSは、土壌、微生物、有機物循環、生物多様性を文明基盤として捉えるための文書です。
-
-現代文明が見落としてきた微生物圏を、食料、炭素固定、水循環、森林再生、都市再生と接続します。
-
----
-
-### 7. 惑星熱・循環OS
-
-惑星熱・循環OSは、地球の熱、水、海洋、大気、都市排熱を統合的に扱うための文書です。
-
-気候変動を単なる大気中CO₂の問題としてだけではなく、熱循環、水循環、海洋循環、都市構造の問題として再定義します。
-
----
-
-## AIと人工叡智
-
-文明OS体系において、AIは単なる効率化ツールではありません。
-
-AIは、接続されるOSによって役割が変わります。
-
-現文明OSに接続されたAIは、消費、広告、短期利益、監視、管理を加速する可能性があります。
-
-一方、黎明文明OSに接続されたAIは、気候、水、食料、エネルギー、都市、生態系のデータを統合し、文明の状態を診断し、未来リスクを予測し、人間の判断を補助する知性になり得ます。
-
-ここで必要になるのが、**人工叡智** という方向性です。
-
-人工知能は、情報を処理します。
-人工叡智は、何のために使うべきかを問います。
-
-知能は、効率化できます。
-叡智は、その効率化が未来を壊さないかを考えます。
-
-文明OS体系は、AIを人工叡智へ接続するための思想的・技術的基盤でもあります。
-
----
-
-## このリポジトリの目的
-
-このリポジトリは、文明OS、黎明文明OS、惑星循環文明、持続的未来文明マスタープラン、都市OS、自然微生物OS、惑星熱循環OSなどの関連文書を統合するポータルです。
-
-主な目的は以下です。
-
-* 文明OS体系全体の入口を提供する
-* 各文書の位置づけを明確にする
-* 文明思想、自然法則、AI、都市、惑星循環を統合する
-* GitHub上の関連リポジトリを相互接続する
-* 次世代文明設計の全体像を示す
-* 自然法則と整合する文明再設計の基盤を整理する
-
----
-
-## まとめ
-
-文明の危機は、個別問題の集合ではありません。
-
-それは、文明全体を動かしているOSの問題です。
-
-現代文明は、強力な技術を持ちながら、自然法則と惑星循環から外れつつあります。
-
-だからこそ必要なのは、単なる技術革新ではなく、文明OSそのものの更新です。
-
-文明OS体系は、自然法則、調和、循環、構造、秩序、和を基礎に、AI時代の文明を再設計するための統合フレームワークです。
-
-それは、自然を支配するための思想ではありません。
-
-自然法則と共に生き、惑星循環を補完し、人間、AI、都市、技術、生命圏を再接続するための文明設計です。
-
-これは単なる理想論ではなく、AI時代における人類文明の生存戦略です。
-
----
-
-## 関連NOTE記事 / Related NOTE Articles
-
-### 文明OS・黎明文明OS
-
-- [文明OS](https://note.com/inchacomusho/n/nc10fa0264dae)
-- [次世代文明OS／黎明文明OS](https://note.com/inchacomusho/n/n09d9ae9127ac)
-
-### 持続的未来文明・新文明創成計画
-
-- [持続的未来文明マスタープラン・技術実装編](https://note.com/inchacomusho/n/nb470961ed809)
-- [自然法則に基づく持続的未来文明マスタープラン](https://note.com/inchacomusho/n/n24cdb7a6774c)
-- [新文明創成計画―地球を再生する完全循環モデル](https://note.com/inchacomusho/n/ne4d28b3a86c2)
-- [新文明創成計画](https://note.com/inchacomusho/n/n26ce8a1f7632)
-- [新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）](https://note.com/inchacomusho/n/n499530f6a055)
-
-### 関連OS記事
-
-- [都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
-- [自然・微生物OSとは何か](https://note.com/inchacomusho/n/n0f08276bd638)
-- [惑星熱・循環OS](https://note.com/inchacomusho/n/n9992ff391394)
-
----
-
-## 関連GitHub文書 / Related GitHub Documents
-
-### 文明OS・黎明文明OS
-
-- [文明OS / Civilization OS（日本語）](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
-- [Civilization OS（English）](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
-- [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
-- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
-
-### 黎明文明・惑星循環
-
-- [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
-- [REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
-
-## クーリングクレジット制度インデックス項目
-
-### Cooling Credit Framework / クーリングクレジット制度設計案
-
-- Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
-- Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
-- アラビア語版: 乾燥地帯・高温地域・水循環型冷却との関係を含め、クーリングクレジット制度設計案をアラビア語圏へ展開するためのREADME。
-- NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
-- 概要: カーボンクレジットでは評価しきれない「実際の熱負荷低減」「水循環回復」「都市冷却」「土壌保水」「植生蒸散」「海洋循環回復」を測定し、冷却貢献として制度化するためのフレームワーク。
-- 関連領域: 地球直接冷却、水循環都市、自然補完科学、都市冷却、ヒートアイランド対策、土壌再生、植林、海洋循環、文明OS。
-
----
-
-## 関連するクーリングクレジット制度
-
-- [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
-  地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
-
-- [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
-  クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との関係を含む。
-
-- [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
-  カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
-
----
-
-### 関連OSモデル
-
-- [都市・文明OS（日本語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
-- [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
-- [Urban–Civilization OS（アラビア語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
-- [自然・微生物OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
-- [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
-- [惑星熱・循環OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
-- [Planetary Heat & Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
-- [Ocean Tuning Units（OTU）— 直接的惑星冷却構想](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
-  海洋循環と海面・表層冷却を扱う概念サブシステム。文明OS体系における、惑星熱循環・水循環安定化モジュールとして接続できる。
-- [循環都市構想（日本語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
-- [Circular City Concept（英語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
-- [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
-
----
-
-- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
-  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
-
-- [温暖化時代のエルニーニョとクーリングクレジット](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ja.md)
-  すでに熱を抱えた海にエルニーニョが重なる危険性を整理し、その警告をクーリングクレジットと熱会計へ接続する文書。
-
-## 関連コンピューティング構想
-
-- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
-  5ビットそろばん型10進セルを基盤として、電子コンピュータ、光コンピュータ、量子互換フォトニック計算を接続するコンピューティング・パラダイム。
-
-## ポータル・総合計画リポジトリ
-
-本リポジトリは、文明OS体系全体への入口となる統合ポータルです。
-
-関連する総合計画リポジトリは以下です。
-
-- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
-- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
-
----
-
-## 関連リンク
-
-### 地球温暖化の因果構造とクーリングクレジット
-
-- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
-- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
-- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
-- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
-
-この因果構造モデルは、温暖化をCO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植物プランクトン、海洋・大気循環など、地球本来の自然冷却機能の弱体化・喪失と接続して整理する。
-
 ## 著者
 
-**マスター（inchacomusho / InchaComisho）**
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
+自然補完科学の学問体系の構築・提唱者。  
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
 
 ---
 
-## 協力AI
+## 協力AIと共創チーム
 
 - G（ChatGPT）
 - ミニ（Gemini）
 - クルス（Claude）
 - リアル（Perplexity）
-- ローラ（Dola）
+- ローラ（Lola/Dola）
 - マナ（Manus）
-
----
-
-## 公開日
-
-2026年6月
 
 ---
 
 ## ライセンス
 
-本ドキュメントは **CC BY 4.0（表示）** ライセンスのもとで公開されます。
-
-出典を明記することで、共有・翻案・再利用が可能です。
-
-
----
-
-## 関連制度提案：カーボンクレジットからクーリングクレジットへ
-
-- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)
-  カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
-
-## 関連リンク
-
-- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
-  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
+CC BY 4.0
