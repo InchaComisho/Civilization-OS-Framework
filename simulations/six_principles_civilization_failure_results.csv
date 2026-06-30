@@ -1,0 +1,6 @@
+scenario,description,natural_law,harmony,circulation,structure,order,wa,average_alignment_score,civilization_stability_score,collapse_risk_score,weakest_principle,stability_class
+Current civilization,"Linear growth, extraction, consumption, short-term profit, weakened circulation, and low Wa.",0.35,0.30,0.25,0.55,0.60,0.20,0.3750,0.0017,0.9983,Wa,Critical instability
+Technocratic control civilization,"High structure and order, but weak harmony, circulation, and Wa.",0.45,0.35,0.35,0.80,0.85,0.25,0.5083,0.0094,0.9906,Wa,Critical instability
+Green but fragmented civilization,"Improves natural law and circulation partially, but lacks social harmony and integrated order.",0.65,0.45,0.60,0.55,0.45,0.40,0.5167,0.0174,0.9826,Wa,Critical instability
+Circular economy without Wa,"Strong circulation reforms, but remains competitive, divided, and short-term oriented.",0.65,0.45,0.75,0.65,0.55,0.30,0.5583,0.0353,0.9647,Wa,Severe instability
+Six Principles Civilization OS,"Civilization OS aligned with Natural Law, Harmony, Circulation, Structure, Order, and Wa.",0.85,0.85,0.90,0.85,0.80,0.90,0.8583,0.3979,0.6021,Order,Moderate stability
