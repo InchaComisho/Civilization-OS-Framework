@@ -10,6 +10,7 @@
 
 لا يقوم جوهر **Civilization OS** على السياسات أو التقنيات وحدها، بل على إدماج **المبادئ الستة للقانون الطبيعي** بوصفها نواة فكرية وحضارية.
 
+- [الفكر يحدد اتجاه الحضارة](https://github.com/InchaComisho/Civilization-OS/blob/main/CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ar.md)
 - [Embedding the Six Principles as the Civilization OS Kernel](SIX_PRINCIPLES_AS_CIVILIZATION_OS_KERNEL.md)
 - [Why Current Civilization Failed: A Six-Principles Civilization OS Diagnosis](WHY_CURRENT_CIVILIZATION_FAILED_BY_SIX_PRINCIPLES.md)
 - [Philosophy Determines How Civilization Uses Science and Technology](CIVILIZATION_PHILOSOPHY_DETERMINES_TECHNOLOGY.md)
@@ -24,6 +25,7 @@
 - [Civilization-OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
 - [文明OS / Japanese](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
 - [Civilization-OS / العربية](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ar.md)
+- [الفكر يحدد اتجاه الحضارة](https://github.com/InchaComisho/Civilization-OS/blob/main/CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ar.md)
 - [Civilization-OS-Framework / English](README.md)
 - [Civilization-OS-Framework / Japanese](README_ja.md)
 - [Civilization-OS-Framework / العربية](README_ar.md)
