@@ -11,6 +11,7 @@
 文明OS体系の中核は、単なる制度や技術ではなく、**六つの理** を思想カーネルとして組み込むことである。
 
 - [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
+- [思想が文明の方向性を決める](https://github.com/InchaComisho/Civilization-OS/blob/main/CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
 - [六つの理を文明OSカーネルとして組み込む](SIX_PRINCIPLES_AS_CIVILIZATION_OS_KERNEL_ja.md)
 - [現文明が失敗した理由──六つの理による文明OS診断](WHY_CURRENT_CIVILIZATION_FAILED_BY_SIX_PRINCIPLES_ja.md)
 - [思想が文明と科学技術の使い方を決める](CIVILIZATION_PHILOSOPHY_DETERMINES_TECHNOLOGY_ja.md)
@@ -23,6 +24,7 @@
 ## 文明系リポジトリ相互リンク
 
 - [Civilization-OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [思想が文明の方向性を決める](https://github.com/InchaComisho/Civilization-OS/blob/main/CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
 - [Civilization-OS-Framework](README_ja.md)
 - [Civilization-OS-Framework / Arabic](README_ar.md)
 - [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
