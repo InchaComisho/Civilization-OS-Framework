@@ -23,6 +23,7 @@
 
 - [Civilization-OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
 - [文明OS / Japanese](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [Civilization-OS / العربية](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ar.md)
 - [Civilization-OS-Framework / English](README.md)
 - [Civilization-OS-Framework / Japanese](README_ja.md)
 - [Civilization-OS-Framework / العربية](README_ar.md)
