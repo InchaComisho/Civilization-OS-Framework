@@ -10,6 +10,7 @@
 
 The core of Civilization OS is not merely policy or technology, but the embedding of the **Six Principles of Natural Law** as the philosophical kernel.
 
+- [Thought Determines the Direction of Civilization](https://github.com/InchaComisho/Civilization-OS/blob/main/CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES.md)
 - [Embedding the Six Principles as the Civilization OS Kernel](SIX_PRINCIPLES_AS_CIVILIZATION_OS_KERNEL.md)
 - [Why Current Civilization Failed: A Six-Principles Civilization OS Diagnosis](WHY_CURRENT_CIVILIZATION_FAILED_BY_SIX_PRINCIPLES.md)
 - [Philosophy Determines How Civilization Uses Science and Technology](CIVILIZATION_PHILOSOPHY_DETERMINES_TECHNOLOGY.md)
@@ -22,6 +23,7 @@ The core of Civilization OS is not merely policy or technology, but the embeddin
 ## Civilization Repository Network
 
 - [Civilization-OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [Thought Determines the Direction of Civilization](https://github.com/InchaComisho/Civilization-OS/blob/main/CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES.md)
 - [Civilization-OS-Framework](README.md)
 - [Civilization-OS-Framework / Arabic](README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
