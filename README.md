@@ -2,7 +2,7 @@
 
 ## A Civilization Redesign Framework for Natural Law, Planetary Circulation, and the Age of AI
 
-[日本語](README_ja.md)
+[日本語](README_ja.md) | [العربية](README_ar.md)
 
 ---
 
@@ -23,13 +23,16 @@ The core of Civilization OS is not merely policy or technology, but the embeddin
 
 - [Civilization-OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
 - [Civilization-OS-Framework](README.md)
+- [Civilization-OS-Framework / Arabic](README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
 - [REIMEI-Planetary-Circulation](https://github.com/InchaComisho/REIMEI-Planetary-Circulation/blob/main/README.md)
 - [Urban-Civilization-OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [Urban-Civilization-OS / Arabic](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 - [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal/blob/main/README.md)
 - [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/README.md)
 - [Master Definition of Global Warming Causality and Complete Solution](https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/README.md)
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README.md)
+- [Desert Regeneration and Food Production / Arabic](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation/blob/main/README_ar.md)
 
 ---
 
