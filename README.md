@@ -1,5 +1,7 @@
 # Civilization OS Framework
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Civilization Redesign Framework for Natural Law, Planetary Circulation, and the Age of AI
 
 [日本語](README_ja.md) | [العربية](README_ar.md)

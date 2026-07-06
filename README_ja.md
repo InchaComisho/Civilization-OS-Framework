@@ -1,5 +1,7 @@
 # Civilization OS Framework / 文明OS体系
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 自然法則・惑星循環・AI時代に対応する文明再設計フレームワーク
 
 [English](README.md) | [العربية](README_ar.md)
