@@ -1,5 +1,7 @@
 # Global Warming Definition Link
 
+[日本語版はこちら / Japanese version](RELATED_GLOBAL_WARMING_DEFINITION_LINKS_ja.md)
+
 This page links Civilization OS Framework to the central climate definition repository.
 
 ## Central Definition

@@ -1,14 +1,14 @@
-# Related Links: Cooling Credit Local Pilot Model
+# 関連リンク：クーリングクレジットの地域パイロットモデル
 
-[日本語版はこちら / Japanese version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS_ja.md)
+[English Version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS.md)
 
 ## 文明OSから地域冷却実証への接続
 
-The **Cooling Credit Local Pilot Model** is a practical Civilization OS implementation unit. It translates climate causality, natural cooling restoration, MRV, Cooling Credit, and regional participation into small-scale executable pilots.
+**クーリングクレジットの地域パイロットモデル**は、実践的な文明OSの実装単位です。気候の因果関係、自然の冷却の回復、MRV、クーリングクレジット、地域の参加を、小規模で実行可能なパイロットへと翻訳します。
 
 ---
 
-## Main Link / 主要リンク
+## 主要リンク
 
 - [Cooling-Credit-Local-Pilot-Model](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model)
 - [日本語 README](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model/blob/main/README_ja.md)
@@ -17,7 +17,7 @@ The **Cooling Credit Local Pilot Model** is a practical Civilization OS implemen
 
 ---
 
-## Civilization OS Flow
+## 文明OSの流れ
 
 ```text
 Civilization OS
@@ -35,7 +35,7 @@ Regional Implementation
 
 ---
 
-## Related Repositories
+## 関連リポジトリ
 
 - [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
 - [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
