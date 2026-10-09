@@ -4,7 +4,7 @@
 
 [日本語](SIX_PRINCIPLES_AS_CIVILIZATION_OS_KERNEL_ja.md) | [English](SIX_PRINCIPLES_AS_CIVILIZATION_OS_KERNEL.md) | [العربية](SIX_PRINCIPLES_AS_CIVILIZATION_OS_KERNEL_ar.md)
 
-関連トップ: [README_ja.md](README_ja.md) | [README.md](README.md)
+関連トップ: [README_ja.md](README_ja.md) | [README.md](README_ja.md)
 
 基礎文書: [自然法則の六原理](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law/blob/main/README_ja.md)
 
